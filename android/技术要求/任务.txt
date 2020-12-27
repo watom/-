@@ -1,0 +1,12 @@
+记住：
+1、数据库操作
+2、IO流操作
+3、数据结构操作-上传下载
+4、网络编程-OKhttp
+5、Fragment编写流程
+6、SimpleListView、RecycleView编写流程
+7、普通单例的写法
+
+
+1、广播接收者刷新
+2、ContentProvider文件数据共享
