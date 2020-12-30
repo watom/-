@@ -10,3 +10,6 @@
 
 1、广播接收者刷新
 2、ContentProvider文件数据共享
+
+
+1、热更新App
