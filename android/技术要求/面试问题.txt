@@ -27,6 +27,12 @@ handle怎么处理的？
 事件处理机制（onTouch和Event）
 
 java8的新特性？
+1、Lambda表达式
+2、方法引用
+3、新的日期时间API
+4、Optional 用来解决空指针异常。
+5、提供了新的编译工具：Nashorn引擎 jjs、 类依赖分析器jdeps
+（1）java8提供了一个新的js引擎，允许在jvm上面运行特定的js应用。
 
 View的绘制过程
 
