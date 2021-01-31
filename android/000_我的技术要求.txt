@@ -11,3 +11,22 @@
 12、熟悉MVP和MVVP框架的区别和缺点。
 13、熟练网络编程
 14、了解SDK的之间的区别
+
+
+安卓原生端：
+熟悉安卓原生开发和H5开发，会使用React、Cordvar、Weex，Vue等技术开发前端应用。
+熟悉Android四大组件及其生命周期，掌握View绘制流程、动画机制、事件传递机制、自定义View控件，掌握ListView、ViewGroup优化，掌握使用屏幕适配等常用方法
+熟悉Android文件存储管理，熟悉SQLite数据库，熟悉关系型数据库的设计原理和数据库的设计及优化; 掌握Android平台下的XML和JSON数据数据生成解析。熟悉安卓系统启动流程，权限控制，内存管理的机制。
+了解Java多线程和线程安全，线程/进程间通讯和同步原理。
+了解TCP/IP通讯协议、UDP、HTTP等网络协议，熟悉XMPP等IM协议。有Socket开发经验，有网络编程经验。掌握RxJava2+Retrofit2+okhttp网络框架。
+熟练使用主流开源框架Glide，ButterKnife，EventBus，RecyclerView等使用。
+掌握百度地图接入，GPS定位，极光推送，实现消息推送。
+熟悉wifi、蓝牙、相机、红外、IO开发步骤。
+熟练使用Eclipse和AS等开发工具，有良好的编程习惯和代码调试能力及问题的解决能力，有分析Android Framework源码的能力，具备Android性能调优经验，熟悉安卓内存管理。
+ 对MVP设计有较深的理解，会使用测试驱动开发，熟悉软件开发流程。
+Web端：
+了解Html（Bootstrap、LayUI、Vant），JavaScript（JQuery、KnockOut、Vue）
+JavaEE：
+  了解Spring，数据库，Mybits，Linux（部署）
+原型设计：
+  Axure和PS的基本使用（掌握该工具的简单使用，辅助项目需求确认）
