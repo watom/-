@@ -39,7 +39,7 @@ View的绘制过程
 
 Sqlite的用法
 
-腾讯面试题：
+第一次腾讯面试题：
 1、数据怎么存储的
 2、Apk的安装流程、具体使用的方法
 3、webvie和原生的交互流程
@@ -49,6 +49,40 @@ Sqlite的用法
 
 7、为什么腾讯要采用UDP形式的数据传输，采用TCP数据是不是更安全？
 
+
+第二次腾讯面试题：
+（1面）
+什么是面向对象：简练语言描述
+String、StringBuild和StringBuffer哪个效率高
+C中New一个对象的过程
+Activity的四种启动模式
+Flutter
+性能优化怎么处理
+ANR问题
+Crash问题
+
+（2面）
+多线程之间怎么保证数据安全
+线程池的作用
+线程怎么优化都有哪些方式
+activity页面卡顿怎么处理
+activity的生命周期
+activity和Fragment的区别
+Bundle的底层原理
+单例模式
+http和https的区别
+数据结构:
+|--数组和ArrayList的区别，HashMap
+大图片加载底层实现原理
+TCP和UDP的区别
+butterknife实现原理
+Okhttp底层实现原理
+handler消息传递机制
+插件化实现的原理
+Flutter
+排序算法复杂度
+
+遇到的挑战
 
 闻泰面试题目
 0、自定义组件的创建过程
@@ -61,6 +95,19 @@ Sqlite的用法
 
 4、了解过相关的源码？
 WMS、AMS、PKMS、SurfaceFlinger、USB
+
+
+海尔面试题目
+1、安卓中的多线程应用
+2、OKHttp的基层设计
+3、多线程和线程池操作
+|--安卓中与没有使用过线程锁
+4、数据结构
+|--ArrayList删除数据后的问题
+|--HashMap的基层数据结构
+5、设计模式MVP和MVVM的使用
+|--工厂模式和抽象工厂的区别
+
 
 
 ===========================================================
